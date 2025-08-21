@@ -9,7 +9,7 @@ on:
 env:
   AZURE_WEBAPP_NAME: "timeservice"
   DOTNET_VERSION: "9.0"
-  PUBLISH_DIR: "timeAPI/publish"
+  PUBLISH_DIR: "Current_CICD/publish"
   
 jobs:
   publish:
